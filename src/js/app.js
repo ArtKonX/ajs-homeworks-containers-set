@@ -1,6 +1,6 @@
 import Team from "./Team";
 
-const team = Team();
+const team = new Team();
 
 team.add({
     name: 'Magician',
